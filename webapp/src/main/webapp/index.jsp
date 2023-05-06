@@ -2,5 +2,5 @@
   <div class="container">
     <h1>Welcome to Spring Boot Web Development</h1>
     	<p>this is sample devops project</p>
-   <h1> Thank you for visiting </h1>
+   <h1> Thank you for devops </h1>
 </form>
